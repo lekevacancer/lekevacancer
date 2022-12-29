@@ -2,8 +2,8 @@
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
-- Active Directory Homelab
-- Threat Detection & Monitoring
+- Active Directory Homelab (https://github.com/laburl)
+- Threat Detection & Monitoring (https://github.com/laburl)
 
 <h2>👨🏽‍🎓 Education</h2>
 
