@@ -1,34 +1,21 @@
-<h1>Hi, I'm Lekeva! <br/><a href="https://github.com/lekevacancer"></<a href="www.linkedin.com/in/lekeva-cancer-313436b2">
+<h1>Hello, I'm Lekeva! <br/></a> Cybersecurity Professional</a> </h1>
 
-<h2>Cybersecurity Projects</h2>
+<h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
+ 
+- Active Directory Homelab
+- Threat Detection & Monitoring
 
-- <b>Cybersecurity Homelab For Detection and Monitoring</b>
-  - Configuring, optimizing, and securing an I.T infrastructure
+<h2>👨🏽‍🎓 Education</h2>
 
-  
-<h3> Certifications</h3>
+- I am currently persuing  my Bacherlors of Science in Cloud Computing from Western Governors University
 
-<h4> 🤳 Connect with me:</h4>
+<h2>📜 Certifications</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [CompTIA: A+] In Progress
+
+<h2> 🤳 Connect with me:</h2>
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="Lekeva Cancer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: www.linkedin.com/in/lekeva-cancer-313436b2
