@@ -24,7 +24,7 @@
 
 <b>👨🏻‍💻 🌎 🔐 Azure/Cloud Projects 👨🏻‍💻 🌎 🔐</b>
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/lekevacancer/Cloud-SOC)
-  - [Setting Up Vulnerable VMs in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
+  - [Setting Up Vulnerable VMs in Azure](https://github.com/lekevacancer/Azure-Virtual-Machine-Prep)
   - [Cloud SOC Project Resources](https://github.com/lekevacancer/Cloud-SOC-Project-Resources)
 
   
@@ -33,9 +33,9 @@
  
 <h2> 📲 connect with me:</h2>
   
-[<img align="left" alt="Amilia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lekeva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/amiliasalvatore/
+[linkedin]: https://www.linkedin.com/in/lekeva-cancer
 
 
 
