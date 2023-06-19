@@ -5,7 +5,8 @@
 
 #### Thank you for visiting my GitHub! This repository is meant to showcase my cybersecurity journey and the projects I've had the privilege of working on.
 
-#### I've had the honor of working in a variety of tech-related positions over the past few years. I've always been motivated by the urge to use technology to solve challenges and enhance user experiences, from debugging difficult technical difficulties to managing service requests and putting software solutions in place. These encounters have helped me to develop a solid set of IT abilities and have molded my perspective of the digital world. But I ultimately discovered my true calling in the field of cybersecurity. My background in IT gave me the appropriate foundation to go deeply into this area because I have always been fascinated by the complexities of safeguarding digital systems.
+#### I am a motivated and technologically-savvy cloud computing student seeking to obtain a Cyber Security Analyst position that leverages their fundamental knowledge and interests in remediation techniques, network penetration, cyber threats, vulnerability assessments, networking protocols, as well as hands on experience with active directory, DNS, Windows, and Linux command line. Currently, pursuing a Bachelor of Science in Cloud Computing and hold a CompTIA A+ and CompTIA Sec+ certifications. With strong investigative mindset, communication, and problem solving skills honed through their technical recruitment, education, and social work background, they are ready to contribute to a dynamic and innovative cybersecurity team.
+
 
 #### I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
