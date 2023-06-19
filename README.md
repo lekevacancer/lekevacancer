@@ -8,7 +8,7 @@
 #### I am a motivated and technologically-savvy cloud computing student seeking to obtain a Cyber Security Analyst position that leverages their fundamental knowledge and interests in remediation techniques, network penetration, cyber threats, vulnerability assessments, networking protocols, as well as hands on experience with active directory, DNS, Windows, and Linux command line. Currently, pursuing a Bachelor of Science in Cloud Computing and hold a CompTIA A+ and CompTIA Sec+ certifications. With strong investigative mindset, communication, and problem solving skills honed through their technical recruitment, education, and social work background, they are ready to contribute to a dynamic and innovative cybersecurity team.
 
 
-#### I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
+#### I encourage you to explore my GitHub portfolio, which provides a glimpse into my technical skills and expertise. These projects serve as a showcase of my problem-solving abilities, meticulous attention to detail, and proficiency in analyzing risks and implementing effective mitigation strategies. Feel free to delve into the repositories to gain a better understanding of my capabilities and the quality of work I have produced.
 
 
 
