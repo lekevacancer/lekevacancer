@@ -1,4 +1,4 @@
-![banner][(https://imgur.com/a/qVBsOTM)]
+![banner](https://i.imgur.com/o05jau2.jpg)
 <h1 align="center">Hello, world! 👋 I'm Lekeva </h1>
 <h3 align="center">A passionate and aspiring cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
