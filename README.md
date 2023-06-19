@@ -1,5 +1,5 @@
 ![banner][(https://imgur.com/a/qVBsOTM)]
-<h1 align="center">Hello, world! 👋 I'm Keva</h1>
+<h1 align="center">Hello, world! 👋 I'm Lekeva </h1>
 <h3 align="center">A passionate and aspiring cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
 
@@ -20,7 +20,7 @@
  <br />
 
 
-<h2>  🖥️ Projects  :</h2>
+<h2>  🖥️ Cyber Security Projects  :</h2>
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-<h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
+<h2>👨🏻‍💻 🌎 🔐 Azure/Cloud Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
   ### [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
