@@ -39,27 +39,7 @@
 
   
   
- ---
-  
- <br />
 
- ## SQL Projects
- ### [Security Incident Analysis Using SQL](https://github.com/AmiliaSalva/Security-Incident-Investigation-After-Hours-Failed-Login-Attempts-Analysis-Using-SQL)
-
- <br />
- 
-  
-  
-  
-  
-
- ---
-  
- <br />
-
-  ## KQL Simple Queries
-  ### [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
- <br />
  
  
 <h2> 📲 connect with me:</h2>
