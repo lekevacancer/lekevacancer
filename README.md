@@ -26,7 +26,7 @@
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/lekevacancer/Cloud-SOC)
   - [Setting Up Vulnerable VMs in Azure](https://github.com/lekevacancer/Azure-Virtual-Machine-Prep)
   - [Cloud SOC Project Resources](https://github.com/lekevacancer/Cloud-SOC-Project-Resources)
-  - [Vulnerability Management Lab](https://github.com/lekevacancer/Vulnerability-Management-Lab)
+  - [OpenVAS Vulnerability Management Lab](https://github.com/lekevacancer/Vulnerability-Management-Lab)
   
   
 
