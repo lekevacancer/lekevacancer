@@ -22,7 +22,7 @@
 
 <h2>  🖥️ Cyber Security Projects  :</h2>
 
-<b>👨🏻‍💻 🌎 🔐 Azure/Cloud Projects 👨🏻‍💻 🌎 🔐</b>
+<b>👨🏻‍💻 🌎 🔐 Cloud Projects 👨🏻‍💻 🌎 🔐</b>
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/lekevacancer/Cloud-SOC)
   - [Setting Up Vulnerable VMs in Azure](https://github.com/lekevacancer/Azure-Virtual-Machine-Prep)
   - [Cloud SOC Project Resources](https://github.com/lekevacancer/Cloud-SOC-Project-Resources)
